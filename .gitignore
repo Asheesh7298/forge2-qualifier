@@ -1,0 +1,6 @@
+/vendor
+/node_modules
+.env
+*.sqlite
+/backend/vendor
+/frontend/node_modules
